@@ -1,0 +1,44 @@
+.header{
+	min-height: 50px;
+	background-color: #38ACEC;
+	font-style: italic;
+	font-size: 30px;
+	text-align: center;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+	width: 60%;
+	float: left;
+	min-height: 500px;
+	background-color: #99C68E;
+}
+.contact{
+	width: 40%;
+	float: right;
+	min-height: 500px;
+	background-color: #8BB381;
+
+}
+.wrapper{
+	overflow: hidden;
+}
+.box{
+	float: left;
+	min-height: 200px;
+	width: 33.33%;
+}
+.bg1{
+	background-color: #E6A9EC;
+}
+.bg2{
+	background-color: #E0B0FF;
+}
+.bg3{
+	background-color: #E9CFEC;
+}
+.footer{
+	min-height: 80px;
+	background-color: #CCFB5D;
+}
